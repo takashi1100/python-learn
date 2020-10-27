@@ -23,7 +23,7 @@ class Stack:
 
 # 文字列を逆順にする
 stack = Stack()
-for c in "Hello":
+for c in "Hello World!":
     stack.push(c)
 
 reverse = ""
